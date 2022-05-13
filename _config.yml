@@ -36,7 +36,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "100sang on GitHub":
+  "devNmin on GitHub":
     - "//github.com/devNmin"
 
 # Makes Aux links open in a new tab. Default is false
