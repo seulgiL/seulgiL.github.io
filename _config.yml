@@ -1,7 +1,7 @@
 title: devNmin.github.io
 description: devNmin's documentation
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://devNmin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seulgiL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: just-the-docs/just-the-docs
 
@@ -37,7 +37,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "devNmin on GitHub":
-    - "//github.com/devNmin"
+    - "//github.com/seulgiL"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
