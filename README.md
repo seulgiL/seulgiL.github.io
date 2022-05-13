@@ -1,1 +1,0 @@
-# devNmin.github.io
