@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Vue
+title: Javascript
 nav_order: 3
 has_children: true
-permalink: /docs/Vue
+permalink: /docs/Javascript
 ---
 
-# Vue
+# Javascript
 
-Python Page tests
+Javascript
 {: .fs-6 .fw-300 }
