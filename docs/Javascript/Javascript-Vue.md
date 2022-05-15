@@ -4,6 +4,17 @@ title: Vue
 parent: Javascript
 nav_order: 1
 ---
+# Vue이론
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 
 # Vue 이론
 {: .no_toc }
