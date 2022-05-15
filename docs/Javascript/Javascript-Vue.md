@@ -8,10 +8,10 @@ nav_order: 1
 {: .no_toc }
 
 ## Table of contents
-{: .no_toc .text-delta .fs-3 }
+{: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc .fs-3 }
 
 ---
 
@@ -95,6 +95,13 @@ nav_order: 1
 - **Model View** : (== <strong style="color:Blueviolet">Vue Instance</strong>) : View와 Model 사이를 연결
 
 
+
+<hr>
+
+## This
+
+- Vue 함수 객체 내에서 vue 인스턴스를 가리킴
+- 함수에서 this를 쓸 때는 화살표 함수를 쓰면 안됨
 
 
 
