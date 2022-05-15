@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vue
-parent: JavaScrips
+parent: JavaScript
 nav_order: 1
 ---
 

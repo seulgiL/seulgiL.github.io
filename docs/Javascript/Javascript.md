@@ -8,5 +8,5 @@ permalink: /docs/Javascript
 
 # Javascript
 
-Javascript
+Javascript Page
 {: .fs-6 .fw-300 }
