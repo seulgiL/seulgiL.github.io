@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "devNmin.github.io"
+description: "seulgiL.github.io"
 permalink: /
 ---
 
-# Welcome to devNmin.github.io
+# Welcome to seulgiL.github.io
 {: .fs-8 }
 
 Here is my Today I Learned
