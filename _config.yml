@@ -1,4 +1,4 @@
-title: devNmin.github.io
+title: seulgiL.github.io
 description: Seulgi's Study Log
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://seulgiL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,7 +36,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "devNmin on GitHub":
+  "seulgiL on GitHub":
     - "//github.com/seulgiL"
 
 # Makes Aux links open in a new tab. Default is false
