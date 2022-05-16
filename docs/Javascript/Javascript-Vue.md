@@ -4,8 +4,6 @@ title: Vue
 parent: Javascript
 nav_order: 1
 ---
-# Vue이론
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -45,6 +43,15 @@ nav_order: 1
 - 동작 원리의 일부가 CSR의 구조를 따름
 
 
+
+<hr>
+
+## SFC 
+
+- Single File Component
+- Vue의 컴포넌트 기반 개발의 핵심 특징
+- Vue 컴포넌트 === Vue 인스턴스 === .vue파일
+- 각 기능별로 파일을 나눠서 개발하면 이후 변수 관리가 용이하며 기능 별로 유지 & 보수 비용 감소
 
 
 
@@ -105,9 +112,36 @@ nav_order: 1
 
 
 
+<hr>
+
+## <span style="color:Blueviolet">computed</span> vs <span style="color:Blueviolet">watch</span>
+
+### computed
+
+- 데이터를 기반으로 하는 계산된 '속성'
+- 종속된 데이터가 변경될 때만 함수를 실행
+- 반드시 반환 값이 있어야 하며, 함수가 아닌 함수의 반환값이 바인딩 된다.
+- **선언형 프로그래밍 방식**
+
+### watch
+
+- 데이터에 변화가 일어났을 때 실행되는 함수
+
+- function()의 인자로 데이터를 넘겨주는 것이 아니라 함수 안에서 this.dataName으로 데이터를 쓴다.
+- 특정 데이터의 변화 상황에 맞춰 다른 data등이 바뀌어야 할 때 주로 사용.
+- **명령형 프로그래밍 방식**
 
 
 
+<hr>
+
+## Lifecycle Hooks
+
+- created -> mounted->updated->destroyed
 
 
+
+<hr>
+
+## 
 
