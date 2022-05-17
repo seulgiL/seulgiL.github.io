@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Menu3
+title: others
 nav_order: 3
 has_children: true
-permalink: /docs/menu3
+permalink: /docs/zero
 ---
 
 # Menu3
